@@ -38,7 +38,7 @@ license: apache-2.0
 4. Create .env file and add your API TOKEN
    ```
    GOOGLE_API_KEY="Enter Your GOOGLE API TOKEN"
-   REPLICATE_API_KEY=""
+   HUGGINGFACE_API_KEY=""
    ```
 5. To run app
     ```
