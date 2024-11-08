@@ -1,17 +1,6 @@
----
-title: Multimodal Content Generation
-emoji: 🤗
-colorFrom: indigo
-colorTo: green
-sdk: streamlit
-sdk_version: 1.32.0
-app_file: multi-modal-content-generation.py
-pinned: false
-license: apache-2.0
----
-## A Multimodal Content Generation have following capabilities:
+ Multimodal Content Generation have following capabilities:
 
-## 1. A `Conversational chatbot` as same as `ChatGPT v3.5 + Image Summarization` Capabilities through `GOOGLE GEMINI VISION PRO API`.
+## 1. A `Conversational chatbot` as same as `ChatGPT + Image Summarization` Capabilities through `GOOGLE GEMINI VISION PRO API`.
 ## 2. `Text to Image` (using Stability Ai (Stable Diffusion)) through `HUGGINGFACE API`.
 
 ## Setup steps:
